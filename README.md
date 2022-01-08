@@ -39,7 +39,7 @@
    Stay Up-to-Date
 </h2>
 
-<p align="center"><img src="https://github.com/notreallyshikhar/YukkiMusicBot/blob/main/Utils/star.gif" alt="NotReallyShikhar Github" width="1000px" /></p>
+<p align="center"><img src="https://github.com/Sumans11/yukkimusic/blob/main/Utils/star.gif" alt="NotReallyShikhar Github" width="1000px" /></p>
 
 
 
@@ -62,7 +62,7 @@ shikhar@MacBook~ $ cp sample.env .env
 ```console
 shikhar@MacBook~ $ bash start
 ```
-![alt text](https://github.com/notreallyshikhar/YukkiMusicBot/blob/main/Utils/screen.png)
+![alt text](https://github.com/Sumans11/yukkimusic/blob/main/Utils/screen.png)
 
 
 <h2 align="center">
@@ -70,7 +70,7 @@ shikhar@MacBook~ $ bash start
 </h2>
 
 <p align="center">
-<a href="https://dashboard.heroku.com/new?template=https://github.com/NotReallyShikhar/YukkiMusicBot/tree/Multi-Assistant"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="250""/</a>  
+<a href="https://dashboard.heroku.com/new?template=https://github.com/Sumans11/yukkimusic/tree/Multi-Assistant"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="250""/</a>  
 
 </p>
 
