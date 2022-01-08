@@ -1,17 +1,17 @@
-<h1 align= center><b>⭐️ Yukki Music Bot ⭐️</b></h1>
+<h1 align= center><b>⭐️ ALEXIA MUSIC ⭐️</b></h1>
 <h3 align = center> Multi-Assistant | Video Calls | Voice Calls | Heroku Supported</h3>
 
 <p align="center">
 <a href="https://python.org"><img src="http://forthebadge.com/images/badges/made-with-python.svg" alt="made-with-python"></a>
 <br>
-    <img src="https://img.shields.io/github/license/notreallyshikhar/YukkiMusicBot?style=for-the-badge" alt="LICENSE">
-    <img src="https://img.shields.io/github/contributors/notreallyshikhar/YukkiMusicBot?style=for-the-badge" alt="Contributors">
-    <img src="https://img.shields.io/github/repo-size/notreallyshikhar/YukkiMusicBot?style=for-the-badge" alt="Repository Size"> <br>
-    <img src="https://img.shields.io/github/forks/notreallyshikhar/YukkiMusicBot?style=for-the-badge" alt="Forks">
-    <img src="https://img.shields.io/github/stars/notreallyshikhar/YukkiMusicBot?style=for-the-badge" alt="Stars">
-    <img src="https://img.shields.io/github/watchers/notreallyshikhar/YukkiMusicBot?style=for-the-badge" alt="Watchers">
-    <img src="https://img.shields.io/github/commit-activity/w/notreallyshikhar/YukkiMusicBot?style=for-the-badge" alt="Commit Activity">
-    <img src="https://img.shields.io/github/issues/notreallyshikhar/YukkiMusicBot?style=for-the-badge" alt="Issues">
+    <img src="https://img.shields.io/github/license/Sumans11/yukkimusic?style=for-the-badge" alt="LICENSE">
+    <img src="https://img.shields.io/github/contributors/Sumans11/yukkimusic?style=for-the-badge" alt="Contributors">
+    <img src="https://img.shields.io/github/repo-size/Sumans11/yukkimusic?style=for-the-badge" alt="Repository Size"> <br>
+    <img src="https://img.shields.io/github/forks/Sumans11/yukkimusic?style=for-the-badge" alt="Forks">
+    <img src="https://img.shields.io/github/stars/Sumans11/yukkimusic?style=for-the-badge" alt="Stars">
+    <img src="https://img.shields.io/github/watchers/Sumans11/yukkimusic?style=for-the-badge" alt="Watchers">
+    <img src="https://img.shields.io/github/commit-activity/w/Sumans11/yukkimuisc?style=for-the-badge" alt="Commit Activity">
+    <img src="https://img.shields.io/github/issues/Sumans11/yukkimusic?style=for-the-badge" alt="Issues">
 </p>
 
 <h3 align="center">
@@ -20,8 +20,8 @@
 
 <p align="center">
     A Support Group and ready-to-use running instance of this bot can be found on Telegram <br>
-    <a href="https://t.me/YukkiRobot"> YukkiMusicBot </a> |
-    <a href="https://t.me/OfficialYukkiSupport"> YukkiSupport </a>
+    <a href="https://t.me/Alexia_yoo_music_bot"> Alexia music </a> |
+    <a href="https://t.me/ALEXIA_SUPPORT"> Alexia support </a>
 </p>
     
 <h1 align="center">
@@ -69,9 +69,9 @@ bash start
 ## Contact & Support
 
 
-- [Telegram Channel](https://t.me/OfficialYukki")
-- [Telegram Support Group](https://t.me/OfficialYukkiSupport)
-- [Contact Owner](https://t.me/NotReallyShikhar)
+- [Telegram Channel](https://t.me/ALEXIA_UPDATE")
+- [Telegram Support Group](https://t.me/ALEXIA_SUPPORT)
+- [Contact Owner](https://t.me/Saur12p)
 
 ## Why Yukki?
     
